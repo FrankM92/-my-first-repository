@@ -1,0 +1,13 @@
+div{
+  
+  font-family: 'Sen';
+  margin: 10px;
+  
+}
+
+a{
+  color: green;
+}
+a:hover {
+  color: lime;
+}

@@ -1,0 +1,14 @@
+fieldset{
+  width: 300px;
+  margin: 1px;
+}
+
+#button1{
+  width:50px;
+}
+#text1{
+  width: 140px;
+}
+#other2{
+  width: 140px;
+}

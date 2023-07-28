@@ -1,0 +1,44 @@
+div {
+  background: orange;
+  padding: 15px 30px;
+}
+
+h1 {
+  color: #eb1729;
+  background: aqua;
+  margin: 20px  200px  60px 200px;
+  padding: 20px;
+  border: 3px solid black;
+  width: 50%;
+  height: 10%;
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+}
+
+h2{
+  color: lime;
+  background: darkgrey;
+  margin-left: 15px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p, ol, ul {
+  margin: 0;
+}
+
+#usernameInput, #emailInput {
+    background: lime;
+}
+.fruits {
+  background: yellow;
+  font-size: 24px;
+}
+
+ul{
+  background: blue;
+}
+
+.drinks{
+  background: green;
+}
